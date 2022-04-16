@@ -182,8 +182,8 @@ ex. [@gmail.com]
 ## Version History
 
 * 1.0
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+   
+    
 
 
 
