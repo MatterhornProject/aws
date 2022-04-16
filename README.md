@@ -174,10 +174,10 @@ output "publicip" {
 
 ## Authors
 
-Contributors names and contact info
+
 
 ex. Maciej Znalezniak
-ex. [@gmail.com]
+ex. [maciej.znalezniak@gmail.com]
 
 ## Version History
 
