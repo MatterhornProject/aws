@@ -36,7 +36,7 @@ provider "aws" {
 
 ```
 
-The next section is resources where we define the 'security group', its name 'AWS_SG', description and communication inputs and outputs specified on ports 80 and 22 using the TCP protoco.
+The next section is resources where we define the 'security group', its name 'AWS_SG', description and communication inputs and outputs specified on ports 80 and 22 using the TCP protocols.
 
 ```
 resource "aws_security_group" "AWS_SG" {
